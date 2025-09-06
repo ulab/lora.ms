@@ -145,7 +145,7 @@ angemessenen Frist, aber auch diese ist nicht nötig.
 Die Entfernung des Knoten sollte keine bleibenden Spuren oder Schäden
 hinterlassen.
  
-----------
+--------------------------------------------------------------------------
 
 Diese FAQ basiert auf der [property owner faq - hosting a
 node](https://www.austinmesh.org/join/property-owner-faq-hosting-a-node/) des
