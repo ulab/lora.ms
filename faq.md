@@ -11,7 +11,7 @@ Distanzen aufbaut.
 Es ermöglicht den Austausch von Textnachrichten, Positionsdaten (GPS) und
 Sensordaten zwischen Geräten, ohne auf Mobilfunk oder Internet angewiesen zu
 sein. Dadurch eignet es sich neben den normalen Anwendungsmöglichkeiten wie
-Outdoor-Aktivitäten auch in Gebieten ohne Infrastruktur insbesondere auch in
+Outdoor-Aktivitäten auch in Gebieten ohne Infrastruktur -- insbesondere auch in
 Katastrophenfällen als alternative Kommunikationsmöglichkeit.
 
 
