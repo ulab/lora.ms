@@ -1,8 +1,8 @@
 FAQ: Hosting eines Meshtastic-Knotens
 =====================================
 
-Was ist Meshtastic?
--------------------
+*Was ist Meshtastic?*
+---------------------
 
 Meshtastic ist ein Open-Source-Projekt auf Basis der LoRa-Funktechnologie,
 welches ein dezentrales Mesh-Netzwerk für eine Kommunikation über große
@@ -15,8 +15,8 @@ Outdoor-Aktivitäten auch in Gebieten ohne Infrastruktur - insbesondere auch in
 Katastrophenfällen als alternative Kommunikationsmöglichkeit.
 
 
-Wozu genau wird so ein Knoten verwendet?
-----------------------------------------
+*Wozu genau wird so ein Knoten verwendet?*
+------------------------------------------
 
 Jedes Gerät fungiert als Knotenpunkt und Relaisstation, wodurch das Netzwerk
 skalierbar wird.
@@ -26,8 +26,8 @@ auch in Gebieten mit eingeschränkter oder gestörter Mobilfunk- oder
 Internetabdeckung.
 
 
-Welche Art von Ausrüstung wird installiert?
--------------------------------------------
+*Welche Art von Ausrüstung wird installiert?*
+---------------------------------------------
 
 In der Regel wird nur eine kleine, wetterfeste Box mit einem Mikrocontroller
 und einer kleinen Antenne befestigt. Eine durch ein Solarpanel geladene
@@ -36,15 +36,15 @@ Batterie sorgt für eine komplett autarke Stromversorgung.
 Die komplette Technik wiegt üblicherweise zwischen 1 und 1.5 kg.
 
 
-Wie wird es mit Strom versorgt?
--------------------------------
+*Wie wird es mit Strom versorgt?*
+---------------------------------
 
 Die Knoten sind solarbetrieben und vollständig autark, benötigen also keine
 Anbindung an ein Stromnetz.
 
 
-Welche Art von Antenne oder Verkabelung wird verwendet?
--------------------------------------------------------
+*Welche Art von Antenne oder Verkabelung wird verwendet?*
+---------------------------------------------------------
 
 In der Regel wird nur eine kleine externe Antenne benötigt, die zusammen mit
 dem Gerät an einem Mast oder einer Stange befestigt wird.
@@ -59,8 +59,8 @@ Es sind keine Bohrungen oder Schraubverbindungen erforderlich, sofern nicht
 anders vereinbart.
 
 
-Wie hoch ist der zu erwartende Wartungsaufwand?
------------------------------------------------
+*Wie hoch ist der zu erwartende Wartungsaufwand?*
+-------------------------------------------------
 
 Sehr gering, die Knoten sind für einen langen autonomen Betrieb ausgelegt.
 
@@ -71,8 +71,8 @@ Entsprechende Bedingungen für einen Zugang sollten abgesprochen und falls nöti
 schriftlich festgelegt werden. 
 
 
-Wofür genau wird der Knoten verwendet?
---------------------------------------
+*Wofür genau wird der Knoten verwendet?*
+----------------------------------------
 
 Jeder Knoten erweitert das Meshtastic-Netzwerk der LoRa.MS-Community. 
 
@@ -85,8 +85,8 @@ Katastrophenfall, z.B. bei flächendeckenden Stromausfällen oder wetterbedingte
 Notfällen.
 
 
-Welche Reichweite hat so ein Knoten und auf welcher Frequenz sendet er?
------------------------------------------------------------------------
+*Welche Reichweite hat so ein Knoten und auf welcher Frequenz sendet er?*
+-------------------------------------------------------------------------
 
 Die Reichweite ist sehr abhängig von der Antenne und dessen Positionierung
 (besonders der Höhe). In der Regel sind Reichweiten zwischen 3 und 15 km
@@ -99,8 +99,8 @@ Größere Reichweiten werden durch das Weiterleiten von Nachrichten über mehrer
 Mesh-Knoten erreicht.
 
 
-Wird das Gerät Störungen bei bestehenden Systemen verursachen?
---------------------------------------------------------------
+*Wird das Gerät Störungen bei bestehenden Systemen verursachen?*
+----------------------------------------------------------------
 
 Das ist äußerst unwahrscheinlich, da Meshtastic auf anderen Frequenzen als
 WLAN-, Mobilfunk- oder TV-Systemen arbeitet und eine extrem geringe Leistung
@@ -110,15 +110,15 @@ Alle von uns eingesetzten Geräte und Bauteile haben eine Zulassung in Europa
 und entsprechen den lokalen gesetzlichen Vorgaben.
 
 
-Welche haftungsrechtlichen Auswirkungen gibt es?
-------------------------------------------------
+*Welche haftungsrechtlichen Auswirkungen gibt es?*
+--------------------------------------------------
 
 Der Gebäudeeigentümer trägt die Haftung, allerdings ist die Wahrscheinlichkeit
 eines Vorfalls als gering einzuschätzen
 
 
-Gibt es Genehmigungen oder regulatorische Fragen, die zu beachten sind?
------------------------------------------------------------------------
+*Gibt es Genehmigungen oder regulatorische Fragen, die zu beachten sind?*
+-------------------------------------------------------------------------
 
 Für kleine Antennen oder nicht-kommerzielle Installationen sind keine
 Genehmigungen erforderlich.
@@ -130,8 +130,8 @@ Wenn Sie Mieter oder Teil einer Gemeinschaftsimmobilie sind, sollten Sie sich
 am besten eine schriftliche Genehmigung einholen.
 
 
-Wie lange muss der Knoten dort bleiben? Kann er jederzeit entfernt werden?
---------------------------------------------------------------------------
+*Wie lange muss der Knoten dort bleiben? Kann er jederzeit entfernt werden?*
+----------------------------------------------------------------------------
 
 Natürlich wünschen wir uns eine möglichst langfristige Installation, um die
 Stabilität unseres Netzes beizubehalten.
@@ -145,7 +145,7 @@ angemessenen Frist, aber auch diese ist nicht nötig.
 Die Entfernung des Knoten sollte keine bleibenden Spuren oder Schäden
 hinterlassen.
  
---------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
 Diese FAQ basiert auf der [property owner faq - hosting a
 node](https://www.austinmesh.org/join/property-owner-faq-hosting-a-node/) des
